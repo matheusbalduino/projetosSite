@@ -1,0 +1,9 @@
+p{
+  align-items: center;
+  text-align: center;
+}
+footer{
+  margin-top: 100vh;
+  height: 20vh;
+  background-color: gray;
+}
